@@ -1,4 +1,0 @@
-shutdown
-delete_module
-exit
-sync
